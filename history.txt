@@ -1,0 +1,59 @@
+    1  mkdir git-bacis-exercises
+    2  git init
+    3  touch README.md
+    4  git add README.md
+    5  git commit -m "initial commit"
+    6  git config --global user.name "tebogomotibane"
+    7  git config --global user.email "tebogomotibane@gmail.com"
+    8  git status
+    9  git commit -m "initial commit"
+   10  git log
+   11  nano README.md
+   12  git add README.md
+   13  git commit -m "second commit"
+   14  nano README.md
+   15  git add README.md
+   16  git commit -m "third commit"
+   17  git log
+   18  git checkout  e8397d631ef4b16ad789c24308504a6acbd1d9f3
+   19  cat README.md
+   20  git checkout master
+   21  cat README.md
+   22  git branch
+   23  git branch milkshake-flavours
+   24  git checkout milkshake-flavours
+   25  git branch
+   26  Ls
+   27  git init
+   28  touch README.md
+   29  git log
+   30  Ls
+   31  git add README.md
+   32  git commit -m "initial commit"
+   33  nano README.md
+   34  cat README.md
+   35  git add README.md
+   36  git commit -m "second commit"
+   37  nano README.md
+   38  git add README.md
+   39  git commit -m "third commit"
+   40  git log
+   41  git branch
+   42  git branch milkshake-flavours
+   43  git checkout milkshake-flavours
+   44  git branch
+   45  nano milkshakes.md
+   46  git status
+   47  git add milkshakes.md
+   48  git commit -m "added initial flavours"
+   49  git log
+   50  git checkout main
+   51  git checkout master
+   52  Ls
+   53  git log
+   54  git status
+   55  git branch history
+   56  git checkout history
+   57  git log
+   58  git branch
+   59  history>history.txt
